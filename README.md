@@ -1,3 +1,3 @@
 # Data-Insights
-Data analysis 
+Data analysis.
 This is a repository for posting my IBM Data science coursera assignments. 
